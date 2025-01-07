@@ -1,3 +1,4 @@
+""
 import Sidebar  from "@/components/Sidebar";
 import Image from "next/image";
 // import { redirect } from "next/navigation";
